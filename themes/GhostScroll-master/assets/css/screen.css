@@ -480,6 +480,7 @@ li {
     margin: 10px 0 10px 0;
     font-size: 5rem;
     letter-spacing: -1px;
+    color : blue;
 }
 
 .blog-description {
@@ -489,6 +490,7 @@ li {
     font-weight: 300;
     font-family: 'Roboto Slab', serif;
     letter-spacing: 0;
+    color : blue;
 }
 
 .post-holder {
